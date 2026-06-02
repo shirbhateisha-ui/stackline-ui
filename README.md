@@ -124,4 +124,4 @@ All interactive components are built on Radix UI primitives providing WAI-ARIA c
 
 ## License
 
-MIT © Isha Bhate
+MIT © Isha Shirbhate
